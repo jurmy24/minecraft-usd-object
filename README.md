@@ -3,6 +3,9 @@ This model is meant as a simple test scene with a variety of [UsdPreviewSurface 
 
 ![McUsd: JG-RTX textures, rendered in Omniverse](screenshots/ov_accurate.png "McUsd: JG-RTX textures, rendered with Omniverse's Accurate (Iray) renderer, 2022.3.1")
 
+![Mechaverse](https://github.com/user-attachments/assets/164e4191-7246-4e52-860c-2dfe83a28dca)
+
+
 Clockwise from "12 o'clock": diamond block, iron block,  gold block, fern, prismarine, sunflower, purple stained glass, rails, chiseled quartz block atop quartz pillar, piston, and in the middle is lava.
 
 _Note: here and further on, you can click on the image to see the full resolution version, which may be scaled down to fit on this README page._
