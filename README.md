@@ -80,7 +80,7 @@ to provide a hint to the user interface for where the camera should focus when r
 ## USDView
 It is possible to build [usdview from scratch](https://graphics.pixar.com/usd/release/toolset.html), but [NVIDIA's Omniverse Launcher](https://www.nvidia.com/en-us/omniverse/) provides a pre-built version of the USDView application. Images shown were generated with USDView 0.23.2.
 
-Load procedure to match camera: File -> Open and select McUsd.usda. Press F11 to toggle on the hierarchy view (if not already visible). Open the "root" by double-clicking on it. Select the "Camera" and right-click, then pick (at the bottom) "Set As Active Camera".
+Load procedure to match camera: File -> Open and select McUsd.usda. Press `F11` to toggle on the hierarchy view (if not already visible). Open the "root" by double-clicking on it. Select the "Camera" and right-click, then pick (at the bottom) "Set As Active Camera".
 
 Here is the rendering of McUsd in USDView, using [NVIDIA's prebuilt version 0.23.2](https://www.nvidia.com/en-us/omniverse/):
 
