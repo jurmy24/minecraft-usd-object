@@ -5,6 +5,21 @@ This model is meant as a simple test scene with a variety of [UsdPreviewSurface 
 
 ![Mechaverse](https://github.com/user-attachments/assets/164e4191-7246-4e52-860c-2dfe83a28dca)
 
+<div align="center">
+  <img src="public/og.jpeg" alt="Mechaverse - Universal 3D Robot Viewer" width="800" style="border-radius: 12px; margin: 20px 0;">
+  <div style="display: flex; justify-content: center; gap: 12px; margin: 5px 0;">
+    <a href="https://mechaverse.dev">
+      <img src="https://img.shields.io/badge/Demo-mechaverse.dev-blue?style=for-the-badge&logo=globe" alt="Demo">
+    </a>
+    <a href="https://discord.gg/UDYNE7qRVb">
+      <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord" alt="Discord">
+    </a>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+    </a>
+  </div>
+</div>
+
 
 Clockwise from "12 o'clock": diamond block, iron block,  gold block, fern, prismarine, sunflower, purple stained glass, rails, chiseled quartz block atop quartz pillar, piston, and in the middle is lava.
 
